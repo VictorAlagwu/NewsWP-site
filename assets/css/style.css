@@ -1,0 +1,162 @@
+@font-face{
+    font-family: 'franklin-gothic-ext-condensed';
+    src: url('../fonts/FranklinGothicExtraCondensed.ttf');
+}
+body{
+    font-family: 'franklin-gothic-ext-condensed',sans-serif;
+}
+nav a.navbar-brand{
+    font-size: 15px;
+    
+    color: #900;
+    font-size: 13px;
+}
+.header{
+	    padding-top: 30px;
+	}
+.navigation{
+    font-family: "Helvetica";
+}
+.recent-title{
+    font-family: 'franklin-gothic-urw-condensed',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.post-side-title {
+    font-family: "franklin-gothic-ext-condensed";
+    font-size: 15px;
+
+}
+.post-side-permalink{
+    color: blue;
+    font-size: 11px;
+    font-family: "Times New Roman";
+}
+.post-side-body {
+    font-family: "Times New Roman";
+    font-size: 12px;
+}
+.cafe-title{
+    text-align: center;
+    font-family: "franklin-gothic-ext-condensed";
+    font-size: 15px;
+}
+.cafe-author{
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 11px;
+    color: red;
+    margin: 0 auto;
+}
+h3{
+    margin: 0 auto;
+}
+.popular-posts{
+    font-family: "franklin-gothic-ext-condensed";
+    font-size: 15px;
+}
+.list{
+    font-family:'franklin-gothic-ext-condensed';
+    font-size:15px;
+    color: red;
+}
+p.summary-post-title{
+    font-family: 'franklin-gothic-ext-condensed';
+    font-size: 20px;
+}
+p.summary-post-author{
+    font-family: 'Helvetica';
+    font-size: 12px;
+
+}
+p.miss_title{
+    font-size: 25px;
+}
+p.tpm_title{
+    font-size:25px;
+}
+p.datepicker{
+    font-family: 'Times New Roman';
+    font-size:10px; 
+}
+p.editor-title{
+    font-family:  'franklin-gothic-ext-condensed';
+    font-size: 25px;
+}
+p.editor-body{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+p.editor-permalink{
+    color: red;
+}
+.hr-bold {
+    background-color: black !important;
+    color: black !important;
+    border: solid 1px black !important;
+    height: 3px !important;
+    width: 100% !important;
+}
+.content{
+	
+}
+.top-post-title{
+    font-family: 'franklin-gothic-ext-condensed',sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.top-post-body{
+    font-family: 'Times New Roman';
+    font-size: 14px;
+}
+.single-top-post-body{
+    font-family: 'Times New Roman';
+    font-size: 16px;
+}
+.author_side h3{
+    font-family: 'franklin-gothic-ext-condensed';
+    font-size: 30px;
+}
+p.author-bio-name{
+    color: red;
+    font-family: 'Times New Roman';
+}
+
+p.author-bio-details{
+    font-family: 'Times New Roman';
+    font-size: 12px;
+}
+
+p.post-title{
+    font-family: 'franklin-gothic-ext-condensed',sans-serif;
+    font-size: 25px;
+}
+p span.post-author{
+    font-family: 'franklin-gothic-ext-condensed';
+}
+p span.post-date{
+    font-family: 'franklin-gothic-ext-condensed';
+}
+p.post-create{
+    font-family: 'Times New Roman';
+}
+p.post-detail{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+.footer_hr{
+	background-color: white !important;
+    color: white !important;
+    border: solid 1px white !important;
+    height: 3px !important;
+    width: 100% !important;
+}
+footer{
+	background-color: black;
+	color: white;
+	font-family: Times New Roman;
+}
+.about{
+	padding-left: 40px;
+}
